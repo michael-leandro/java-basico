@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Teste de conexao com github");
+        System.out.println("Teste de conexao com github!");
     }
 }
